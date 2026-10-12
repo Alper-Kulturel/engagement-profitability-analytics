@@ -1,0 +1,18 @@
+# Engagement Profitability Analytics - pinned dependencies
+# Python 3.12+ (developed and verified on 3.14)
+
+# Core data stack
+pandas==3.0.6
+numpy==2.5.4
+
+# Visualisation
+matplotlib==3.11.2
+
+# Application
+streamlit==1.65.0
+
+# Utilities
+loguru==0.7.3
+
+# Testing
+pytest==9.1.1
