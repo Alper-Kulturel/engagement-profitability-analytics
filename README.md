@@ -262,10 +262,11 @@ engagement-profitability-analytics/
 ├── docs/
 │   └── methodology.md          # every metric defined, every assumption stated
 ├── reports/                    # build output (gitignored)
-│   ├── figures/                # five PNGs at 300 dpi
+│   ├── figures/                # five PNGs at 300 dpi, committed for the README
 │   ├── tables/                 # 11 CSVs
 │   └── .gitkeep
 ├── src/
+│   ├── __init__.py             # package marker; modules are imported by full path
 │   ├── config.py               # single source of truth for paths and constants
 │   ├── generate_data.py        # synthetic portfolio from a fixed seed of 42
 │   ├── analysis.py             # every metric; the report and app both call this
