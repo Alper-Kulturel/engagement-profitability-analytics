@@ -26,9 +26,12 @@ data/raw/*
 # ---------------------------------------------------------------------------
 # Reports
 # ---------------------------------------------------------------------------
-# Figures, tables and the HTML report are build output.
+# Tables and the HTML report are build output; the figures are committed
+# because the README embeds them.
 reports/*
 !reports/.gitkeep
+!reports/figures/
+!reports/figures/*.png
 
 # ---------------------------------------------------------------------------
 # Environment and editors

@@ -134,6 +134,17 @@ Digital 16.1%, Risk 20.0%. Digital carries the deepest discounts (10.2% of rate
 card) and the highest delivery cost share, which is enough to explain the gap
 without a story about execution.
 
+### The figures
+
+| | |
+| --- | --- |
+| ![Margin leakage waterfall](reports/figures/margin_leakage_waterfall.png) | ![Utilisation by consultant level](reports/figures/utilization_by_level.png) |
+| *Rate card to margin: where each dollar goes, FY2025* | *Utilisation by grade against the 76% firm target* |
+| ![Client margin Pareto](reports/figures/client_margin_pareto.png) | ![Margin decay by overrun](reports/figures/margin_decay_by_overrun.png) |
+| *Client concentration — 23 of 60 clients carry 80% of margin* | *Margin rate against overrun, by quintile* |
+| ![Realisation versus margin](reports/figures/realization_vs_margin.png) | |
+| *Realisation against margin rate, engagement by engagement* | |
+
 ---
 
 ## What closing the gap is worth
